@@ -1,5 +1,4 @@
 $('#lets-code').click((event) => {
-  event.preventDefault();
   const name = document.querySelector('#name').value;
   const email = document.querySelector('#mail').value;
   const whatsapp = document.querySelector('#wpp').value;
